@@ -32,3 +32,25 @@ Welcome to the Dot Spot Painting Generator, where we'll be creating digital artw
 1. Run the Python script to start generating your dot spot painting.
 2. Sit back and watch as the program creates a masterpiece before your eyes.
 3. Repeat the process to generate more unique artworks, each worthy of admiration and awe.
+
+
+
+## Snake Game
+
+Welcome to the Snake game!
+
+### Features:
+
+- **Drawing with Sanke**: Use the arrow keys to move the Snake forwards and backwards, left or rights.
+- **Creating Food**
+
+### How to Play:
+
+1. Run the Python script to start the game.
+2. Use the arrow keys to move the turtle around the screen.
+3. Try to feed with snake!
+   
+   ![image](https://github.com/abhasingh12/My-PythonProjects/assets/153552335/8840207b-e876-4d6a-829f-784504ed7b48)
+
+
+---
