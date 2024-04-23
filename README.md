@@ -1,8 +1,8 @@
 # My Python Projects - 100 Days of Python
 
-## Etch-a-Sketch Game
+## Turtle Race 
 
-Welcome to the Etch-a-Sketch game, a nostalgic trip back to one of my favorite childhood toys, now brought to life through code! In this project, we'll be using Python's Turtle graphics library to create a digital version of the classic drawing toy.
+Welcome to the Turtle race, a nostalgic trip back to one of my favorite childhood toys, now brought to life through code! In this project, we'll be using Python's Turtle graphics library to create a digital version of the classic drawing toy.
 
 ### Features:
 
@@ -14,6 +14,7 @@ Welcome to the Etch-a-Sketch game, a nostalgic trip back to one of my favorite c
 1. Run the Python script to start the game.
 2. Use the arrow keys to move the turtle around the screen.
 3. Experiment with different movements to create your masterpiece!
+ ![image](https://github.com/abhasingh12/My-PythonProjects/assets/153552335/9553f926-8bf7-47c0-ac24-1d1b4ccce343)
 
 ---
 
@@ -33,8 +34,9 @@ Welcome to the Dot Spot Painting Generator, where we'll be creating digital artw
 2. Sit back and watch as the program creates a masterpiece before your eyes.
 3. Repeat the process to generate more unique artworks, each worthy of admiration and awe.
 
+![image](https://github.com/abhasingh12/My-PythonProjects/assets/153552335/1692dbf0-b82a-42ee-a758-d5760e19d657)
 
-
+---
 ## Snake Game
 
 Welcome to the Snake game!
