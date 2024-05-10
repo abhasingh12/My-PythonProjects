@@ -54,5 +54,6 @@ Welcome to the Snake game!
    
    ![image](https://github.com/abhasingh12/My-PythonProjects/assets/153552335/8840207b-e876-4d6a-829f-784504ed7b48)
 
+## Coming more, till then feel free to play :)
 
 ---
